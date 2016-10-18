@@ -1,0 +1,48 @@
+body
+{
+background-color:#000000;
+color:white;
+font-family:verdana;
+font-size:14px;
+}
+#heading
+{
+	text-transform:uppercase;
+	text-shadow:5px -1px 0 red;
+	font-size:30px;
+}
+#nav
+{
+background-color:#ffe4c4;
+color:white;
+font-family:verdana;
+font-size:14px;
+}
+.design
+{
+margin-top:75px;
+background-color: #FF4500;
+color: white;
+padding: 15px 32px;
+}
+#menu
+{
+background-color:#ffe4c4;
+color:brown;
+font-family:verdana;
+font-size:14px;	
+}
+.content
+{
+color:coral;
+margin-left:70px;
+}
+.dropdown
+{
+background-color:#FF4500;
+color:white;
+padding: 15px 32px;
+margin: 4px 2px;
+}
+
+
